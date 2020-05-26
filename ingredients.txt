@@ -1,5 +1,5 @@
 * avocados
-* salt
+* less salt
 * change
 * tomato
 * new shit
